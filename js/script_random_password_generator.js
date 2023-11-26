@@ -52,3 +52,4 @@ passwordLengthInput.addEventListener('input', () => {
 
 generatePasswordButton.addEventListener('click', generatePassword);
 copyPasswordButton.addEventListener('click', copyToClipboard);
+
